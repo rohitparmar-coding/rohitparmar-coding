@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohitparmar-coding
+- 👋 Hi, I’m rohit parmar
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning B.Tech
 - 💞️ I’m looking to collaborate on MNC companies
